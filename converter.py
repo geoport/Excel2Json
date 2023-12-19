@@ -78,8 +78,9 @@ def convert_litology_tab(file_path):
     return data
 
 
+# Xlsx uzantısı kullanmadan dosya adı girilmesi gerekiyor.
 def convert_data(file_name):
-    file_path = os.path.join("excels", file_name)
+    file_path = os.path.join("excels", file_name + ".xlsx")
     data, indevstigation_category = convert_project_tab(file_path)
 
     data["constructionFieldData"] = convert_site_tab(file_path)
@@ -90,7 +91,7 @@ def convert_data(file_name):
 
     data["siteInvestigationData"]["indevstigationCategory"] = indevstigation_category
 
-    with open("data.json", "w") as f:
+    with open(f"jsons/{file_name}.json", "w") as f:
         json.dump(data, f, indent=4)
 
     return data
