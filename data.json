@@ -1,0 +1,3145 @@
+{
+    "projectData": {
+        "geologyEngineer": "Analiz M\u00fchendislik \u0120n\u0122aat\nSondajc\u0131l\u0131k Madencilik San. Tic. Ltd. \u015eti."
+    },
+    "constructionFieldData": {
+        "landSlope": 5,
+        "latitude": "41.020082",
+        "longitude": "28.9334610",
+        "pafta": "F21C24C1B",
+        "ada": 1827,
+        "parsel": 61,
+        "city": "\u0130stanbul",
+        "county": "Fatih",
+        "neighborhood": "Arpa Emini"
+    },
+    "buildingData": {
+        "basementFloorNumber": 4,
+        "totalFloorNumber": 10,
+        "buildingType": "Hastane",
+        "buildingUsageClass": 1,
+        "buildingImportanceFactor": 1.5,
+        "buildingHeightClass": 5
+    },
+    "seismicData": {
+        "earthquakeMagnitude": 7.5
+    },
+    "litologyData": {
+        "SK1": [
+            {
+                "depth": 3.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 orta katta - kat\u0131 KIL",
+                "formation": "Yapay Dolgu"
+            },
+            {
+                "depth": 9.7,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "Al\u00fcvyon"
+            },
+            {
+                "depth": 19.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "\u00c7ekmece FM. G\u00fcng\u00f6ren \u00dcyesi"
+            },
+            {
+                "depth": 20.0,
+                "litology": "SILT BANDI",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 31.0,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fcng\u00f6ren \u00dcyesi"
+            },
+            {
+                "depth": 36.0,
+                "litology": "Kille\u015fmi\u015f, t\u00fcm\u00fcyle ayr\u0131\u015fm\u0131\u015f KUMTA\u015eI",
+                "formation": "Trakya Formasyonu"
+            },
+            {
+                "depth": 70.0,
+                "litology": "\u00c7ok - orta derecede ayr\u0131\u015fm\u0131\u015f KUMTA\u015eI",
+                "formation": "Trakya Formasyonu"
+            }
+        ],
+        "SK2": [
+            {
+                "depth": 3.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 orta katta - kat\u0131 KIL",
+                "formation": "Yapay Dolgu"
+            },
+            {
+                "depth": 7.5,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "Al\u00fcvyon"
+            },
+            {
+                "depth": 18.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "\u00c7ekmece FM. G\u00fcng\u00f6ren \u00dcyesi"
+            },
+            {
+                "depth": 33.0,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 39.0,
+                "litology": "Kille\u015fmi\u015f, t\u00fcm\u00fcyle ayr\u0131\u015fm\u0131\u015f KUMTA\u015eI",
+                "formation": "Trakya Formasyonu"
+            },
+            {
+                "depth": 50.0,
+                "litology": "\u00c7ok - orta derecede ayr\u0131\u015fm\u0131\u015f KUMTA\u015eI",
+                "formation": "Trakya Formasyonu"
+            }
+        ],
+        "SK3": [
+            {
+                "depth": 3.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 orta katta - kat\u0131 KIL",
+                "formation": "Yapay Dolgu"
+            },
+            {
+                "depth": 8.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "Al\u00fcvyon"
+            },
+            {
+                "depth": 19.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "\u00c7ekmece FM. G\u00fcng\u00f6ren \u00dcyesi"
+            },
+            {
+                "depth": 27.0,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 42.5,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 50.0,
+                "litology": "Kille\u015fmi\u015f, t\u00fcm\u00fcyle ayr\u0131\u015fm\u0131\u015f KUMTA\u015eI",
+                "formation": "Trakya Formasyonu"
+            }
+        ],
+        "SK4": [
+            {
+                "depth": 5.8,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 orta katta - kat\u0131 KIL",
+                "formation": "Yapay Dolgu"
+            },
+            {
+                "depth": 21.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "Al\u00fcvyon"
+            },
+            {
+                "depth": 30.0,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 40.0,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 50.0,
+                "litology": "Kille\u015fmi\u015f, t\u00fcm\u00fcyle ayr\u0131\u015fm\u0131\u015f KUMTA\u015eI",
+                "formation": "Trakya Formasyonu"
+            },
+            {
+                "depth": 70.0,
+                "litology": "\u00c7ok - orta derecede ayr\u0131\u015fm\u0131\u015f KUMTA\u015eI",
+                "formation": "Trakya Formasyonu"
+            }
+        ],
+        "SK5": [
+            {
+                "depth": 2.8,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 orta katta - kat\u0131 KIL",
+                "formation": "Yapay Dolgu"
+            },
+            {
+                "depth": 7.3,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "Al\u00fcvyon"
+            },
+            {
+                "depth": 18.0,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "\u00c7ekmece FM. G\u00fcng\u00f6ren \u00dcyesi"
+            },
+            {
+                "depth": 25.5,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 32.8,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 50.0,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            }
+        ],
+        "SK6": [
+            {
+                "depth": 2.5,
+                "litology": "Siltli, az kumlu, yer yer -",
+                "formation": "Yapay Dolgu"
+            },
+            {
+                "depth": 5.8,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 orta katta - kat\u0131 KIL",
+                "formation": "Al\u00fcvyon"
+            },
+            {
+                "depth": 24.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "\u00c7ekmece FM. G\u00fcng\u00f6ren \u00dcyesi"
+            },
+            {
+                "depth": 30.0,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 49.5,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 57.0,
+                "litology": "Kille\u015fmi\u015f, t\u00fcm\u00fcyle ayr\u0131\u015fm\u0131\u015f KUMTA\u015eI",
+                "formation": "Trakya Formasyonu"
+            },
+            {
+                "depth": 70.0,
+                "litology": "\u00c7ok - orta derecede ayr\u0131\u015fm\u0131\u015f KUMTA\u015eI",
+                "formation": "Trakya Formasyonu"
+            }
+        ],
+        "SK7": [
+            {
+                "depth": 2.5,
+                "litology": "Siltli, az kumlu, yer yer -",
+                "formation": "Yapay Dolgu"
+            },
+            {
+                "depth": 6.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 orta katta - kat\u0131 KIL",
+                "formation": "Al\u00fcvyon"
+            },
+            {
+                "depth": 16.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "\u00c7ekmece FM. G\u00fcng\u00f6ren \u00dcyesi"
+            },
+            {
+                "depth": 19.5,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 31.5,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 40.5,
+                "litology": "\u00c7ok - orta derecede ayr\u0131\u015fm\u0131\u015f KUMTA\u015eI",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 50.0,
+                "litology": "\u00c7ok - orta derecede ayr\u0131\u015fm\u0131\u015f KUMTA\u015eI",
+                "formation": "Trakya Formasyonu"
+            }
+        ],
+        "SK8": [
+            {
+                "depth": 3.0,
+                "litology": "Siltli, az kumlu, yer yer -",
+                "formation": "Yapay Dolgu"
+            },
+            {
+                "depth": 6.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 orta katta - kat\u0131 KIL",
+                "formation": "Al\u00fcvyon"
+            },
+            {
+                "depth": 22.5,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "\u00c7ekmece FM. G\u00fcng\u00f6ren \u00dcyesi"
+            },
+            {
+                "depth": 42.0,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 64.5,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 70.0,
+                "litology": "\u00c7ok - orta derecede ayr\u0131\u015fm\u0131\u015f KUMTA\u015eI",
+                "formation": "Trakya Formasyonu"
+            }
+        ],
+        "SK9": [
+            {
+                "depth": 4.0,
+                "litology": "Siltli, az kumlu, yer yer -",
+                "formation": "Yapay Dolgu"
+            },
+            {
+                "depth": 8.3,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 orta katta - kat\u0131 KIL",
+                "formation": "Al\u00fcvyon"
+            },
+            {
+                "depth": 19.5,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "\u00c7ekmece FM. G\u00fcng\u00f6ren \u00dcyesi"
+            },
+            {
+                "depth": 24.7,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 43.5,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 50.0,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            }
+        ],
+        "SK10": [
+            {
+                "depth": 1.5,
+                "litology": "Siltli, az kumlu, yer yer -",
+                "formation": "Yapay Dolgu"
+            },
+            {
+                "depth": 3.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 orta katta - kat\u0131 KIL",
+                "formation": "Al\u00fcvyon"
+            },
+            {
+                "depth": 18.5,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "\u00c7ekmece FM. G\u00fcng\u00f6ren \u00dcyesi"
+            },
+            {
+                "depth": 27.0,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 43.5,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 48.2,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 50.0,
+                "litology": "Kille\u015fmi\u015f, t\u00fcm\u00fcyle ayr\u0131\u015fm\u0131\u015f KUMTA\u015eI",
+                "formation": "Trakya Formasyonu"
+            }
+        ],
+        "SK11": [
+            {
+                "depth": 5.5,
+                "litology": "Siltli, az kumlu, yer yer -",
+                "formation": "Yapay Dolgu"
+            },
+            {
+                "depth": 9.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 orta katta - kat\u0131 KIL",
+                "formation": "Al\u00fcvyon"
+            },
+            {
+                "depth": 20.5,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "\u00c7ekmece FM. G\u00fcng\u00f6ren \u00dcyesi"
+            },
+            {
+                "depth": 24.5,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 40.5,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 61.7,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 70.0,
+                "litology": "Kille\u015fmi\u015f, t\u00fcm\u00fcyle ayr\u0131\u015fm\u0131\u015f KUMTA\u015eI",
+                "formation": "Trakya Formasyonu"
+            }
+        ],
+        "SK12": [
+            {
+                "depth": 57.0,
+                "litology": "Siltli, az kumlu, yer yer -",
+                "formation": "Yapay Dolgu"
+            },
+            {
+                "depth": 8.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 orta katta - kat\u0131 KIL",
+                "formation": "Al\u00fcvyon"
+            },
+            {
+                "depth": 21.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "\u00c7ekmece FM. G\u00fcng\u00f6ren \u00dcyesi"
+            },
+            {
+                "depth": 30.0,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 43.0,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 50.0,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            }
+        ],
+        "SK13": [
+            {
+                "depth": 6.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 orta katta - kat\u0131 KIL",
+                "formation": "Yapay Dolgu"
+            },
+            {
+                "depth": 8.5,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "Al\u00fcvyon"
+            },
+            {
+                "depth": 25.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 \u00e7ok katta - sert KIL",
+                "formation": "\u00c7ekmece FM. G\u00fcng\u00f6ren \u00dcyesi"
+            },
+            {
+                "depth": 27.5,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 33.5,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 50.0,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            }
+        ],
+        "SK14": [
+            {
+                "depth": 6.5,
+                "litology": "Siltli, az kumlu, yer yer -",
+                "formation": "Yapay Dolgu"
+            },
+            {
+                "depth": 8.5,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 orta katta - kat\u0131 KIL",
+                "formation": "Al\u00fcvyon"
+            },
+            {
+                "depth": 12.7,
+                "litology": "Siltli, k\u0131l\u0131 orta s\u0131k\u0131 - s\u0131k\u0131 KUM",
+                "formation": "\u00c7ekmece FM. G\u00fcng\u00f6ren \u00dcyesi"
+            },
+            {
+                "depth": 16.0,
+                "litology": "Siltli, az kumlu, yer yer \u00e7ak\u0131ll\u0131 sert KIL",
+                "formation": "\u00c7ekmece FM. G\u00fcng\u00f6ren \u00dcyesi"
+            },
+            {
+                "depth": 18.7,
+                "litology": "Siltli, k\u0131l\u0131 s\u0131k\u0131 - \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "\u00c7ekmece FM. G\u00fcng\u00f6ren \u00dcyesi"
+            },
+            {
+                "depth": 33.5,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 38.5,
+                "litology": "Siltli, az k\u0131l\u0131, \u00e7ok s\u0131k\u0131 KUM",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            },
+            {
+                "depth": 50.0,
+                "litology": "Siltli, az kumlu, yer yer k\u00f6m\u00fcr ara katk\u0131l\u0131 sert KIL",
+                "formation": "Dan\u0131\u015fmen FM. G\u00fclp\u0131nar \u00dcyesi"
+            }
+        ]
+    },
+    "siteInvestigationData": {
+        "boreHoleData": [
+            {
+                "boreholeNumber": "SK1",
+                "boreHoleDepth": 70
+            },
+            {
+                "boreholeNumber": "SK2",
+                "boreHoleDepth": 50
+            },
+            {
+                "boreholeNumber": "SK3",
+                "boreHoleDepth": 50
+            },
+            {
+                "boreholeNumber": "SK4",
+                "boreHoleDepth": 50
+            },
+            {
+                "boreholeNumber": "SK5",
+                "boreHoleDepth": 50
+            },
+            {
+                "boreholeNumber": "SK6",
+                "boreHoleDepth": 70
+            },
+            {
+                "boreholeNumber": "SK7",
+                "boreHoleDepth": 50
+            },
+            {
+                "boreholeNumber": "SK8",
+                "boreHoleDepth": 70
+            },
+            {
+                "boreholeNumber": "SK9",
+                "boreHoleDepth": 50
+            },
+            {
+                "boreholeNumber": "SK10",
+                "boreHoleDepth": 50
+            },
+            {
+                "boreholeNumber": "SK11",
+                "boreHoleDepth": 70
+            },
+            {
+                "boreholeNumber": "SK12",
+                "boreHoleDepth": 50
+            },
+            {
+                "boreholeNumber": "SK13",
+                "boreHoleDepth": 50
+            },
+            {
+                "boreholeNumber": "SK14",
+                "boreHoleDepth": 50
+            }
+        ],
+        "labExperiments": [
+            {
+                "boreholeNumber": "SK-1",
+                "depth": 4.0,
+                "fineContent": 71.39,
+                "liquidLimit": 31.4,
+                "plasticLimit": 17.2,
+                "waterContent": 20,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.568,
+                "naturalUnitWeight": 1.834,
+                "cohesion": 47.12,
+                "frictionAngle": 4.52
+            },
+            {
+                "boreholeNumber": "SK-1",
+                "depth": 10.0,
+                "fineContent": 72.11,
+                "liquidLimit": 30,
+                "plasticLimit": 16.2,
+                "waterContent": 19.6,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.581,
+                "naturalUnitWeight": 1.881,
+                "cohesion": 70.24,
+                "frictionAngle": 3.33
+            },
+            {
+                "boreholeNumber": "SK-1",
+                "depth": 19.5,
+                "fineContent": 36.56,
+                "liquidLimit": 33.1,
+                "plasticLimit": 28.3,
+                "waterContent": "-",
+                "soilClass": "SaSiL",
+                "dryUnitWeight": "-",
+                "naturalUnitWeight": "-",
+                "cohesion": "-",
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-1",
+                "depth": 22.5,
+                "fineContent": 24.49,
+                "liquidLimit": 31.9,
+                "plasticLimit": 15.9,
+                "waterContent": 17.4,
+                "soilClass": "clSa",
+                "dryUnitWeight": 1.561,
+                "naturalUnitWeight": 1.831,
+                "cohesion": 44.93,
+                "frictionAngle": 14.43
+            },
+            {
+                "boreholeNumber": "SK-1",
+                "depth": 24.0,
+                "fineContent": 40.68,
+                "liquidLimit": "-",
+                "plasticLimit": "-",
+                "waterContent": "-",
+                "soilClass": "-",
+                "dryUnitWeight": "-",
+                "naturalUnitWeight": "-",
+                "cohesion": "-",
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-1",
+                "depth": 32.5,
+                "fineContent": 66.13,
+                "liquidLimit": 33.7,
+                "plasticLimit": 16.9,
+                "waterContent": 20.7,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.5,
+                "naturalUnitWeight": 1.811,
+                "cohesion": 37.44,
+                "frictionAngle": 10.92
+            },
+            {
+                "boreholeNumber": "SK-2",
+                "depth": 4.0,
+                "fineContent": 64.89,
+                "liquidLimit": 30.3,
+                "plasticLimit": 14.8,
+                "waterContent": 16.8,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.599,
+                "naturalUnitWeight": 1.858,
+                "cohesion": 47.63,
+                "frictionAngle": 3.2
+            },
+            {
+                "boreholeNumber": "SK-2",
+                "depth": 7.0,
+                "fineContent": 59.65,
+                "liquidLimit": 31.2,
+                "plasticLimit": 16.7,
+                "waterContent": 17,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.58,
+                "naturalUnitWeight": 1.854,
+                "cohesion": 49.17,
+                "frictionAngle": 3.63
+            },
+            {
+                "boreholeNumber": "SK-2",
+                "depth": 13.5,
+                "fineContent": 38.9,
+                "liquidLimit": 44.2,
+                "plasticLimit": 21.4,
+                "waterContent": "-",
+                "soilClass": "SaCIM",
+                "dryUnitWeight": "-",
+                "naturalUnitWeight": "-",
+                "cohesion": "-",
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-2",
+                "depth": 19.0,
+                "fineContent": 22.68,
+                "liquidLimit": 30.3,
+                "plasticLimit": 15.2,
+                "waterContent": 16.4,
+                "soilClass": "clSa",
+                "dryUnitWeight": 1.588,
+                "naturalUnitWeight": 1.82,
+                "cohesion": 42.18,
+                "frictionAngle": 15.27
+            },
+            {
+                "boreholeNumber": "SK-3",
+                "depth": 4.0,
+                "fineContent": 70.21,
+                "liquidLimit": 33.5,
+                "plasticLimit": 17,
+                "waterContent": 19.3,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.565,
+                "naturalUnitWeight": 1.886,
+                "cohesion": 52.13,
+                "frictionAngle": 3.17
+            },
+            {
+                "boreholeNumber": "SK-3",
+                "depth": 7.0,
+                "fineContent": 63.14,
+                "liquidLimit": 30.5,
+                "plasticLimit": 15.9,
+                "waterContent": 17.8,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.578,
+                "naturalUnitWeight": 1.846,
+                "cohesion": 50.78,
+                "frictionAngle": 3.59
+            },
+            {
+                "boreholeNumber": "SK-3",
+                "depth": 16.0,
+                "fineContent": "-",
+                "liquidLimit": "-",
+                "plasticLimit": "-",
+                "waterContent": 24.2,
+                "soilClass": "-",
+                "dryUnitWeight": 1.512,
+                "naturalUnitWeight": 1.878,
+                "cohesion": 291.63,
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-3",
+                "depth": 20.5,
+                "fineContent": 19.78,
+                "liquidLimit": 31.3,
+                "plasticLimit": 16,
+                "waterContent": 18.7,
+                "soilClass": "clSa",
+                "dryUnitWeight": 1.525,
+                "naturalUnitWeight": 1.807,
+                "cohesion": 39.36,
+                "frictionAngle": 16.39
+            },
+            {
+                "boreholeNumber": "SK-3",
+                "depth": 24.0,
+                "fineContent": 42.23,
+                "liquidLimit": "-",
+                "plasticLimit": "-",
+                "waterContent": "-",
+                "soilClass": "-",
+                "dryUnitWeight": "-",
+                "naturalUnitWeight": "-",
+                "cohesion": "-",
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-4",
+                "depth": 7.0,
+                "fineContent": 68.24,
+                "liquidLimit": 32.4,
+                "plasticLimit": 16.5,
+                "waterContent": 17.8,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.563,
+                "naturalUnitWeight": 1.84,
+                "cohesion": 38.52,
+                "frictionAngle": 4.93
+            },
+            {
+                "boreholeNumber": "SK-4",
+                "depth": 12.0,
+                "fineContent": 66.16,
+                "liquidLimit": 30.4,
+                "plasticLimit": 14,
+                "waterContent": "-",
+                "soilClass": "SaCIL",
+                "dryUnitWeight": "-",
+                "naturalUnitWeight": "-",
+                "cohesion": "-",
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-4",
+                "depth": 20.5,
+                "fineContent": 40.59,
+                "liquidLimit": 30.5,
+                "plasticLimit": 15.3,
+                "waterContent": 16.8,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.591,
+                "naturalUnitWeight": 1.864,
+                "cohesion": 57.11,
+                "frictionAngle": 3.8
+            },
+            {
+                "boreholeNumber": "SK-4",
+                "depth": 40.5,
+                "fineContent": 59.9,
+                "liquidLimit": 32.3,
+                "plasticLimit": 17,
+                "waterContent": 18.1,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.576,
+                "naturalUnitWeight": 1.843,
+                "cohesion": 44.88,
+                "frictionAngle": 14.47
+            },
+            {
+                "boreholeNumber": "SK-5",
+                "depth": 4.0,
+                "fineContent": 64,
+                "liquidLimit": 33.4,
+                "plasticLimit": 16.9,
+                "waterContent": 17.1,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.568,
+                "naturalUnitWeight": 1.834,
+                "cohesion": 41.71,
+                "frictionAngle": 4.42
+            },
+            {
+                "boreholeNumber": "SK-5",
+                "depth": 7.0,
+                "fineContent": 55.26,
+                "liquidLimit": 31.3,
+                "plasticLimit": 16.4,
+                "waterContent": 18.1,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.551,
+                "naturalUnitWeight": 1.826,
+                "cohesion": 40.54,
+                "frictionAngle": 3.38
+            },
+            {
+                "boreholeNumber": "SK-5",
+                "depth": 17.5,
+                "fineContent": "-",
+                "liquidLimit": "-",
+                "plasticLimit": "-",
+                "waterContent": 22,
+                "soilClass": "-",
+                "dryUnitWeight": 1.53,
+                "naturalUnitWeight": 1.867,
+                "cohesion": 322.16,
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-5",
+                "depth": 20.5,
+                "fineContent": 41.8,
+                "liquidLimit": 44.4,
+                "plasticLimit": 23.5,
+                "waterContent": 22.6,
+                "soilClass": "SaCIM",
+                "dryUnitWeight": 1.521,
+                "naturalUnitWeight": 1.868,
+                "cohesion": 66.15,
+                "frictionAngle": 3.85
+            },
+            {
+                "boreholeNumber": "SK-5",
+                "depth": 24.0,
+                "fineContent": 44.58,
+                "liquidLimit": 45.9,
+                "plasticLimit": 21.9,
+                "waterContent": "-",
+                "soilClass": "SaCIM",
+                "dryUnitWeight": "-",
+                "naturalUnitWeight": "-",
+                "cohesion": "-",
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-6",
+                "depth": 4.0,
+                "fineContent": 64.13,
+                "liquidLimit": 32.3,
+                "plasticLimit": 17.1,
+                "waterContent": 21.6,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.51,
+                "naturalUnitWeight": 1.835,
+                "cohesion": 46.48,
+                "frictionAngle": 3.33
+            },
+            {
+                "boreholeNumber": "SK-6",
+                "depth": 5.5,
+                "fineContent": 51.49,
+                "liquidLimit": 31,
+                "plasticLimit": 15.2,
+                "waterContent": 20.5,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.535,
+                "naturalUnitWeight": 1.846,
+                "cohesion": 42.55,
+                "frictionAngle": 4.29
+            },
+            {
+                "boreholeNumber": "SK-6",
+                "depth": 20.0,
+                "fineContent": 33.28,
+                "liquidLimit": 31.8,
+                "plasticLimit": 15.9,
+                "waterContent": 19,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.576,
+                "naturalUnitWeight": 1.866,
+                "cohesion": 63.71,
+                "frictionAngle": 3.38
+            },
+            {
+                "boreholeNumber": "SK-6",
+                "depth": 25.5,
+                "fineContent": 44.89,
+                "liquidLimit": 41,
+                "plasticLimit": 22.3,
+                "waterContent": "-",
+                "soilClass": "SaCIM",
+                "dryUnitWeight": "-",
+                "naturalUnitWeight": "-",
+                "cohesion": "-",
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-7",
+                "depth": 4.0,
+                "fineContent": 71.29,
+                "liquidLimit": 31.4,
+                "plasticLimit": 17.2,
+                "waterContent": 17.9,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.556,
+                "naturalUnitWeight": 1.84,
+                "cohesion": 49.21,
+                "frictionAngle": 4.45
+            },
+            {
+                "boreholeNumber": "SK-7",
+                "depth": 5.5,
+                "fineContent": 61.71,
+                "liquidLimit": 39.4,
+                "plasticLimit": 18.2,
+                "waterContent": 20.1,
+                "soilClass": "SaSiM",
+                "dryUnitWeight": 1.578,
+                "naturalUnitWeight": 1.887,
+                "cohesion": 60.94,
+                "frictionAngle": 3.8
+            },
+            {
+                "boreholeNumber": "SK-7",
+                "depth": 16.5,
+                "fineContent": 62.57,
+                "liquidLimit": 36.1,
+                "plasticLimit": 17.6,
+                "waterContent": "-",
+                "soilClass": "SaSiM",
+                "dryUnitWeight": "-",
+                "naturalUnitWeight": "-",
+                "cohesion": "-",
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-7",
+                "depth": 20.5,
+                "fineContent": 23.93,
+                "liquidLimit": 30.6,
+                "plasticLimit": 14.9,
+                "waterContent": 17,
+                "soilClass": "clSa",
+                "dryUnitWeight": 1.596,
+                "naturalUnitWeight": 1.836,
+                "cohesion": 48.67,
+                "frictionAngle": 13.3
+            },
+            {
+                "boreholeNumber": "SK-8",
+                "depth": 4.0,
+                "fineContent": 61.85,
+                "liquidLimit": 46.8,
+                "plasticLimit": 20.3,
+                "waterContent": 21.6,
+                "soilClass": "SaCIM",
+                "dryUnitWeight": 1.51,
+                "naturalUnitWeight": 1.839,
+                "cohesion": 42.84,
+                "frictionAngle": 5.43
+            },
+            {
+                "boreholeNumber": "SK-8",
+                "depth": 5.5,
+                "fineContent": 68.14,
+                "liquidLimit": 42.6,
+                "plasticLimit": 22.2,
+                "waterContent": 22.7,
+                "soilClass": "SaCIM",
+                "dryUnitWeight": 1.492,
+                "naturalUnitWeight": 1.824,
+                "cohesion": 39.46,
+                "frictionAngle": 5.95
+            },
+            {
+                "boreholeNumber": "SK-8",
+                "depth": 22.5,
+                "fineContent": 40.55,
+                "liquidLimit": 46.1,
+                "plasticLimit": 23.2,
+                "waterContent": "-",
+                "soilClass": "SaCIM",
+                "dryUnitWeight": "-",
+                "naturalUnitWeight": "-",
+                "cohesion": "-",
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-8",
+                "depth": 26.0,
+                "fineContent": 38.07,
+                "liquidLimit": 43.3,
+                "plasticLimit": 23.7,
+                "waterContent": 23.3,
+                "soilClass": "SaCIM",
+                "dryUnitWeight": 1.518,
+                "naturalUnitWeight": 1.875,
+                "cohesion": 67.57,
+                "frictionAngle": 3.38
+            },
+            {
+                "boreholeNumber": "SK-9",
+                "depth": 5.5,
+                "fineContent": 65.66,
+                "liquidLimit": 31.3,
+                "plasticLimit": 17,
+                "waterContent": 19,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.543,
+                "naturalUnitWeight": 1.836,
+                "cohesion": 40.25,
+                "frictionAngle": 4.18
+            },
+            {
+                "boreholeNumber": "SK-9",
+                "depth": 8.5,
+                "fineContent": 57.03,
+                "liquidLimit": 39.1,
+                "plasticLimit": 17.9,
+                "waterContent": 17.7,
+                "soilClass": "SaCIM",
+                "dryUnitWeight": 1.587,
+                "naturalUnitWeight": 1.869,
+                "cohesion": 64.55,
+                "frictionAngle": 3.25
+            },
+            {
+                "boreholeNumber": "SK-9",
+                "depth": 21.0,
+                "fineContent": 42.63,
+                "liquidLimit": 32.3,
+                "plasticLimit": 15.4,
+                "waterContent": "-",
+                "soilClass": "SaCIL",
+                "dryUnitWeight": "-",
+                "naturalUnitWeight": "-",
+                "cohesion": "-",
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-9",
+                "depth": 22.0,
+                "fineContent": "-",
+                "liquidLimit": "-",
+                "plasticLimit": "-",
+                "waterContent": 24,
+                "soilClass": NaN,
+                "dryUnitWeight": 1.53,
+                "naturalUnitWeight": 1.897,
+                "cohesion": 407.76,
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-9",
+                "depth": 25.0,
+                "fineContent": 22.8,
+                "liquidLimit": 29,
+                "plasticLimit": 16,
+                "waterContent": 17.2,
+                "soilClass": "clSa",
+                "dryUnitWeight": 1.573,
+                "naturalUnitWeight": 1.826,
+                "cohesion": 39.61,
+                "frictionAngle": 14.68
+            },
+            {
+                "boreholeNumber": "SK-10",
+                "depth": 2.5,
+                "fineContent": 69.11,
+                "liquidLimit": 33.3,
+                "plasticLimit": 15.3,
+                "waterContent": 16.5,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.556,
+                "naturalUnitWeight": 1.817,
+                "cohesion": 39.34,
+                "frictionAngle": 3.95
+            },
+            {
+                "boreholeNumber": "SK-10",
+                "depth": 4.0,
+                "fineContent": 63.27,
+                "liquidLimit": 43.9,
+                "plasticLimit": 20.1,
+                "waterContent": 20.5,
+                "soilClass": "SaCIM",
+                "dryUnitWeight": 1.54,
+                "naturalUnitWeight": 1.852,
+                "cohesion": 55.65,
+                "frictionAngle": 3.79
+            },
+            {
+                "boreholeNumber": "SK-10",
+                "depth": 13.5,
+                "fineContent": 72.6,
+                "liquidLimit": 40.7,
+                "plasticLimit": 21,
+                "waterContent": "-",
+                "soilClass": "SaCIM",
+                "dryUnitWeight": "-",
+                "naturalUnitWeight": "-",
+                "cohesion": "-",
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-10",
+                "depth": 23.0,
+                "fineContent": 40.91,
+                "liquidLimit": 39.1,
+                "plasticLimit": 19.9,
+                "waterContent": 19.3,
+                "soilClass": "SaCIM",
+                "dryUnitWeight": 1.565,
+                "naturalUnitWeight": 1.866,
+                "cohesion": 63.89,
+                "frictionAngle": 3.48
+            },
+            {
+                "boreholeNumber": "SK-11",
+                "depth": 7.0,
+                "fineContent": 67.78,
+                "liquidLimit": 47.9,
+                "plasticLimit": 21.1,
+                "waterContent": 22.4,
+                "soilClass": "SaCIM",
+                "dryUnitWeight": 1.516,
+                "naturalUnitWeight": 1.846,
+                "cohesion": 42.64,
+                "frictionAngle": 4.06
+            },
+            {
+                "boreholeNumber": "SK-11",
+                "depth": 22.0,
+                "fineContent": 39.93,
+                "liquidLimit": 42,
+                "plasticLimit": 21.4,
+                "waterContent": 23,
+                "soilClass": "SaCIM",
+                "dryUnitWeight": 1.527,
+                "naturalUnitWeight": 1.875,
+                "cohesion": 62.36,
+                "frictionAngle": 3.38
+            },
+            {
+                "boreholeNumber": "SK-11",
+                "depth": 24.0,
+                "fineContent": 27.08,
+                "liquidLimit": 32.6,
+                "plasticLimit": 28.1,
+                "waterContent": "-",
+                "soilClass": "SaSiL",
+                "dryUnitWeight": "-",
+                "naturalUnitWeight": "-",
+                "cohesion": "-",
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-12",
+                "depth": 7.0,
+                "fineContent": 64.07,
+                "liquidLimit": 32.5,
+                "plasticLimit": 14.2,
+                "waterContent": 20.1,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.522,
+                "naturalUnitWeight": 1.87,
+                "cohesion": 37.89,
+                "frictionAngle": 5.03
+            },
+            {
+                "boreholeNumber": "SK-12",
+                "depth": 16.5,
+                "fineContent": 63.46,
+                "liquidLimit": 38.6,
+                "plasticLimit": 18.7,
+                "waterContent": "-",
+                "soilClass": "SaCIM",
+                "dryUnitWeight": "-",
+                "naturalUnitWeight": "-",
+                "cohesion": "-",
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-12",
+                "depth": 26.0,
+                "fineContent": 40.9,
+                "liquidLimit": 30.3,
+                "plasticLimit": 15.7,
+                "waterContent": 19.7,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.541,
+                "naturalUnitWeight": 1.848,
+                "cohesion": 46.98,
+                "frictionAngle": 3.86
+            },
+            {
+                "boreholeNumber": "SK-13",
+                "depth": 7.0,
+                "fineContent": 66.49,
+                "liquidLimit": 33.8,
+                "plasticLimit": 15.8,
+                "waterContent": 18.1,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.556,
+                "naturalUnitWeight": 1.829,
+                "cohesion": 41.33,
+                "frictionAngle": 4.76
+            },
+            {
+                "boreholeNumber": "SK-13",
+                "depth": 8.5,
+                "fineContent": 62.78,
+                "liquidLimit": 33.7,
+                "plasticLimit": 16.2,
+                "waterContent": 18.5,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.569,
+                "naturalUnitWeight": 1.852,
+                "cohesion": 61.86,
+                "frictionAngle": 3.28
+            },
+            {
+                "boreholeNumber": "SK-13",
+                "depth": 25.0,
+                "fineContent": 39.22,
+                "liquidLimit": 31.3,
+                "plasticLimit": 15.6,
+                "waterContent": 17.7,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.588,
+                "naturalUnitWeight": 1.867,
+                "cohesion": 63.1,
+                "frictionAngle": 3.11
+            },
+            {
+                "boreholeNumber": "SK-13",
+                "depth": 27.0,
+                "fineContent": 41.93,
+                "liquidLimit": 31.7,
+                "plasticLimit": 15.3,
+                "waterContent": "-",
+                "soilClass": "SaCIL",
+                "dryUnitWeight": "-",
+                "naturalUnitWeight": "-",
+                "cohesion": "-",
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-14",
+                "depth": 7.0,
+                "fineContent": 68.15,
+                "liquidLimit": 34.1,
+                "plasticLimit": 16.9,
+                "waterContent": 19.3,
+                "soilClass": "SaCIL",
+                "dryUnitWeight": 1.543,
+                "naturalUnitWeight": 1.834,
+                "cohesion": 49.29,
+                "frictionAngle": 4.42
+            },
+            {
+                "boreholeNumber": "SK-14",
+                "depth": 18.0,
+                "fineContent": 41.08,
+                "liquidLimit": "-",
+                "plasticLimit": "-",
+                "waterContent": "-",
+                "soilClass": "-",
+                "dryUnitWeight": "-",
+                "naturalUnitWeight": "-",
+                "cohesion": "-",
+                "frictionAngle": "-"
+            },
+            {
+                "boreholeNumber": "SK-14",
+                "depth": 26.0,
+                "fineContent": 36.52,
+                "liquidLimit": 45.8,
+                "plasticLimit": 20.3,
+                "waterContent": 22,
+                "soilClass": "SaCIM",
+                "dryUnitWeight": 1.533,
+                "naturalUnitWeight": 1.875,
+                "cohesion": 61.56,
+                "frictionAngle": 3.39
+            }
+        ],
+        "sptData": {
+            "SK1": [
+                {
+                    "depth": 1.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 3.0,
+                    "N": 6
+                },
+                {
+                    "depth": 4.5,
+                    "N": 8
+                },
+                {
+                    "depth": 6.0,
+                    "N": 9
+                },
+                {
+                    "depth": 7.5,
+                    "N": 11
+                },
+                {
+                    "depth": 9.0,
+                    "N": 13
+                },
+                {
+                    "depth": 10.5,
+                    "N": 24
+                },
+                {
+                    "depth": 12.0,
+                    "N": 28
+                },
+                {
+                    "depth": 13.5,
+                    "N": 33
+                },
+                {
+                    "depth": 15.0,
+                    "N": 35
+                },
+                {
+                    "depth": 16.5,
+                    "N": 39
+                },
+                {
+                    "depth": 18.0,
+                    "N": 41
+                },
+                {
+                    "depth": 19.5,
+                    "N": 45
+                },
+                {
+                    "depth": 21.0,
+                    "N": 54
+                },
+                {
+                    "depth": 22.5,
+                    "N": 62
+                },
+                {
+                    "depth": 24.0,
+                    "N": 74
+                },
+                {
+                    "depth": 25.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 27.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 28.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 30.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 31.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 33.0,
+                    "N": "R"
+                }
+            ],
+            "SK2": [
+                {
+                    "depth": 1.5,
+                    "N": 16
+                },
+                {
+                    "depth": 3.0,
+                    "N": 5
+                },
+                {
+                    "depth": 4.5,
+                    "N": 7
+                },
+                {
+                    "depth": 6.0,
+                    "N": 10
+                },
+                {
+                    "depth": 7.5,
+                    "N": 26
+                },
+                {
+                    "depth": 9.0,
+                    "N": 30
+                },
+                {
+                    "depth": 10.5,
+                    "N": 35
+                },
+                {
+                    "depth": 12.0,
+                    "N": 37
+                },
+                {
+                    "depth": 13.5,
+                    "N": 41
+                },
+                {
+                    "depth": 15.0,
+                    "N": 45
+                },
+                {
+                    "depth": 16.5,
+                    "N": 48
+                },
+                {
+                    "depth": 18.0,
+                    "N": 57
+                },
+                {
+                    "depth": 19.5,
+                    "N": 64
+                },
+                {
+                    "depth": 21.0,
+                    "N": 72
+                },
+                {
+                    "depth": 22.5,
+                    "N": 78
+                },
+                {
+                    "depth": 24.0,
+                    "N": 83
+                },
+                {
+                    "depth": 25.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 27.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 28.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 30.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 31.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 33.0,
+                    "N": "R"
+                }
+            ],
+            "SK3": [
+                {
+                    "depth": 1.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 3.0,
+                    "N": 7
+                },
+                {
+                    "depth": 4.5,
+                    "N": 9
+                },
+                {
+                    "depth": 6.0,
+                    "N": 12
+                },
+                {
+                    "depth": 7.5,
+                    "N": 15
+                },
+                {
+                    "depth": 9.0,
+                    "N": 30
+                },
+                {
+                    "depth": 10.5,
+                    "N": 34
+                },
+                {
+                    "depth": 12.0,
+                    "N": 39
+                },
+                {
+                    "depth": 13.5,
+                    "N": 40
+                },
+                {
+                    "depth": 15.0,
+                    "N": 43
+                },
+                {
+                    "depth": 16.5,
+                    "N": 46
+                },
+                {
+                    "depth": 18.0,
+                    "N": 49
+                },
+                {
+                    "depth": 19.5,
+                    "N": 63
+                },
+                {
+                    "depth": 21.0,
+                    "N": 76
+                },
+                {
+                    "depth": 22.5,
+                    "N": 71
+                },
+                {
+                    "depth": 24.0,
+                    "N": 87
+                },
+                {
+                    "depth": 25.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 27.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 28.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 30.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 31.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 33.0,
+                    "N": "R"
+                }
+            ],
+            "SK4": [
+                {
+                    "depth": 1.5,
+                    "N": 15
+                },
+                {
+                    "depth": 3.0,
+                    "N": 18
+                },
+                {
+                    "depth": 4.5,
+                    "N": 20
+                },
+                {
+                    "depth": 6.0,
+                    "N": 12
+                },
+                {
+                    "depth": 7.5,
+                    "N": 15
+                },
+                {
+                    "depth": 9.0,
+                    "N": 26
+                },
+                {
+                    "depth": 10.5,
+                    "N": 30
+                },
+                {
+                    "depth": 12.0,
+                    "N": 34
+                },
+                {
+                    "depth": 13.5,
+                    "N": 38
+                },
+                {
+                    "depth": 15.0,
+                    "N": 41
+                },
+                {
+                    "depth": 16.5,
+                    "N": 44
+                },
+                {
+                    "depth": 18.0,
+                    "N": 47
+                },
+                {
+                    "depth": 19.5,
+                    "N": 48
+                },
+                {
+                    "depth": 21.0,
+                    "N": 61
+                },
+                {
+                    "depth": 22.5,
+                    "N": 76
+                },
+                {
+                    "depth": 24.0,
+                    "N": 83
+                },
+                {
+                    "depth": 25.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 27.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 28.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 30.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 31.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 33.0,
+                    "N": "R"
+                }
+            ],
+            "SK5": [
+                {
+                    "depth": 1.5,
+                    "N": 20
+                },
+                {
+                    "depth": 3.0,
+                    "N": 6
+                },
+                {
+                    "depth": 4.5,
+                    "N": 8
+                },
+                {
+                    "depth": 6.0,
+                    "N": 11
+                },
+                {
+                    "depth": 7.5,
+                    "N": 24
+                },
+                {
+                    "depth": 9.0,
+                    "N": 28
+                },
+                {
+                    "depth": 10.5,
+                    "N": 32
+                },
+                {
+                    "depth": 12.0,
+                    "N": 35
+                },
+                {
+                    "depth": 13.5,
+                    "N": 40
+                },
+                {
+                    "depth": 15.0,
+                    "N": 44
+                },
+                {
+                    "depth": 16.5,
+                    "N": 48
+                },
+                {
+                    "depth": 18.0,
+                    "N": 55
+                },
+                {
+                    "depth": 19.5,
+                    "N": 66
+                },
+                {
+                    "depth": 21.0,
+                    "N": 78
+                },
+                {
+                    "depth": 22.5,
+                    "N": 86
+                },
+                {
+                    "depth": 24.0,
+                    "N": 91
+                },
+                {
+                    "depth": 25.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 27.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 28.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 30.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 31.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 33.0,
+                    "N": "R"
+                }
+            ],
+            "SK6": [
+                {
+                    "depth": 1.5,
+                    "N": 15
+                },
+                {
+                    "depth": 3.0,
+                    "N": 5
+                },
+                {
+                    "depth": 4.5,
+                    "N": 10
+                },
+                {
+                    "depth": 6.0,
+                    "N": 21
+                },
+                {
+                    "depth": 7.5,
+                    "N": 25
+                },
+                {
+                    "depth": 9.0,
+                    "N": 30
+                },
+                {
+                    "depth": 10.5,
+                    "N": 34
+                },
+                {
+                    "depth": 12.0,
+                    "N": 37
+                },
+                {
+                    "depth": 13.5,
+                    "N": 39
+                },
+                {
+                    "depth": 15.0,
+                    "N": 41
+                },
+                {
+                    "depth": 16.5,
+                    "N": 44
+                },
+                {
+                    "depth": 18.0,
+                    "N": 45
+                },
+                {
+                    "depth": 19.5,
+                    "N": 48
+                },
+                {
+                    "depth": 21.0,
+                    "N": 52
+                },
+                {
+                    "depth": 22.5,
+                    "N": 58
+                },
+                {
+                    "depth": 24.0,
+                    "N": 76
+                },
+                {
+                    "depth": 25.5,
+                    "N": 84
+                },
+                {
+                    "depth": 27.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 28.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 30.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 31.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 33.0,
+                    "N": "R"
+                }
+            ],
+            "SK7": [
+                {
+                    "depth": 1.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 3.0,
+                    "N": 6
+                },
+                {
+                    "depth": 4.5,
+                    "N": 10
+                },
+                {
+                    "depth": 6.0,
+                    "N": 22
+                },
+                {
+                    "depth": 7.5,
+                    "N": 25
+                },
+                {
+                    "depth": 9.0,
+                    "N": 29
+                },
+                {
+                    "depth": 10.5,
+                    "N": 32
+                },
+                {
+                    "depth": 12.0,
+                    "N": 35
+                },
+                {
+                    "depth": 13.5,
+                    "N": 39
+                },
+                {
+                    "depth": 15.0,
+                    "N": 42
+                },
+                {
+                    "depth": 16.5,
+                    "N": 51
+                },
+                {
+                    "depth": 18.0,
+                    "N": 63
+                },
+                {
+                    "depth": 19.5,
+                    "N": 75
+                },
+                {
+                    "depth": 21.0,
+                    "N": 82
+                },
+                {
+                    "depth": 22.5,
+                    "N": 90
+                },
+                {
+                    "depth": 24.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 25.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 27.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 28.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 30.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 31.5,
+                    "N": "R"
+                }
+            ],
+            "SK8": [
+                {
+                    "depth": 1.5,
+                    "N": 17
+                },
+                {
+                    "depth": 3.0,
+                    "N": 8
+                },
+                {
+                    "depth": 4.5,
+                    "N": 12
+                },
+                {
+                    "depth": 6.0,
+                    "N": 24
+                },
+                {
+                    "depth": 7.5,
+                    "N": 28
+                },
+                {
+                    "depth": 9.0,
+                    "N": 31
+                },
+                {
+                    "depth": 10.5,
+                    "N": 35
+                },
+                {
+                    "depth": 12.0,
+                    "N": 39
+                },
+                {
+                    "depth": 13.5,
+                    "N": 40
+                },
+                {
+                    "depth": 15.0,
+                    "N": 43
+                },
+                {
+                    "depth": 16.5,
+                    "N": 45
+                },
+                {
+                    "depth": 18.0,
+                    "N": 47
+                },
+                {
+                    "depth": 19.5,
+                    "N": 49
+                },
+                {
+                    "depth": 21.0,
+                    "N": 56
+                },
+                {
+                    "depth": 22.5,
+                    "N": 74
+                },
+                {
+                    "depth": 24.0,
+                    "N": 83
+                },
+                {
+                    "depth": 25.5,
+                    "N": 87
+                },
+                {
+                    "depth": 27.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 28.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 30.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 31.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 33.0,
+                    "N": "R"
+                }
+            ],
+            "SK9": [
+                {
+                    "depth": 1.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 3.0,
+                    "N": 16
+                },
+                {
+                    "depth": 4.5,
+                    "N": 7
+                },
+                {
+                    "depth": 6.0,
+                    "N": 10
+                },
+                {
+                    "depth": 7.5,
+                    "N": 13
+                },
+                {
+                    "depth": 9.0,
+                    "N": 23
+                },
+                {
+                    "depth": 10.5,
+                    "N": 27
+                },
+                {
+                    "depth": 12.0,
+                    "N": 32
+                },
+                {
+                    "depth": 13.5,
+                    "N": 36
+                },
+                {
+                    "depth": 15.0,
+                    "N": 40
+                },
+                {
+                    "depth": 16.5,
+                    "N": 42
+                },
+                {
+                    "depth": 18.0,
+                    "N": 45
+                },
+                {
+                    "depth": 19.5,
+                    "N": 63
+                },
+                {
+                    "depth": 21.0,
+                    "N": 69
+                },
+                {
+                    "depth": 22.5,
+                    "N": 78
+                },
+                {
+                    "depth": 24.0,
+                    "N": 88
+                },
+                {
+                    "depth": 25.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 27.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 28.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 30.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 31.5,
+                    "N": "R"
+                }
+            ],
+            "SK10": [
+                {
+                    "depth": 1.5,
+                    "N": 7
+                },
+                {
+                    "depth": 3.0,
+                    "N": 20
+                },
+                {
+                    "depth": 4.5,
+                    "N": 26
+                },
+                {
+                    "depth": 6.0,
+                    "N": 31
+                },
+                {
+                    "depth": 7.5,
+                    "N": 34
+                },
+                {
+                    "depth": 9.0,
+                    "N": 36
+                },
+                {
+                    "depth": 10.5,
+                    "N": 38
+                },
+                {
+                    "depth": 12.0,
+                    "N": 39
+                },
+                {
+                    "depth": 13.5,
+                    "N": 42
+                },
+                {
+                    "depth": 15.0,
+                    "N": 45
+                },
+                {
+                    "depth": 16.5,
+                    "N": 47
+                },
+                {
+                    "depth": 18.0,
+                    "N": 50
+                },
+                {
+                    "depth": 19.5,
+                    "N": 60
+                },
+                {
+                    "depth": 21.0,
+                    "N": 71
+                },
+                {
+                    "depth": 22.5,
+                    "N": 80
+                },
+                {
+                    "depth": 24.0,
+                    "N": 86
+                },
+                {
+                    "depth": 25.5,
+                    "N": 93
+                },
+                {
+                    "depth": 27.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 28.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 30.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 31.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 33.0,
+                    "N": "R"
+                }
+            ],
+            "SK11": [
+                {
+                    "depth": 1.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 3.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 4.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 6.0,
+                    "N": 11
+                },
+                {
+                    "depth": 7.5,
+                    "N": 15
+                },
+                {
+                    "depth": 9.0,
+                    "N": 23
+                },
+                {
+                    "depth": 10.5,
+                    "N": 28
+                },
+                {
+                    "depth": 12.0,
+                    "N": 31
+                },
+                {
+                    "depth": 13.5,
+                    "N": 34
+                },
+                {
+                    "depth": 15.0,
+                    "N": 37
+                },
+                {
+                    "depth": 16.5,
+                    "N": 40
+                },
+                {
+                    "depth": 18.0,
+                    "N": 42
+                },
+                {
+                    "depth": 19.5,
+                    "N": 46
+                },
+                {
+                    "depth": 21.0,
+                    "N": 64
+                },
+                {
+                    "depth": 22.5,
+                    "N": 73
+                },
+                {
+                    "depth": 24.0,
+                    "N": 82
+                },
+                {
+                    "depth": 25.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 27.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 28.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 30.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 31.5,
+                    "N": "R"
+                }
+            ],
+            "SK12": [
+                {
+                    "depth": 1.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 3.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 4.5,
+                    "N": 19
+                },
+                {
+                    "depth": 6.0,
+                    "N": 8
+                },
+                {
+                    "depth": 7.5,
+                    "N": 15
+                },
+                {
+                    "depth": 9.0,
+                    "N": 26
+                },
+                {
+                    "depth": 10.5,
+                    "N": 35
+                },
+                {
+                    "depth": 12.0,
+                    "N": 33
+                },
+                {
+                    "depth": 13.5,
+                    "N": 36
+                },
+                {
+                    "depth": 15.0,
+                    "N": 39
+                },
+                {
+                    "depth": 16.5,
+                    "N": 41
+                },
+                {
+                    "depth": 18.0,
+                    "N": 44
+                },
+                {
+                    "depth": 19.5,
+                    "N": 48
+                },
+                {
+                    "depth": 21.0,
+                    "N": 68
+                },
+                {
+                    "depth": 22.5,
+                    "N": 79
+                },
+                {
+                    "depth": 24.0,
+                    "N": 86
+                },
+                {
+                    "depth": 25.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 27.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 28.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 30.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 31.5,
+                    "N": "R"
+                }
+            ],
+            "SK13": [
+                {
+                    "depth": 1.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 3.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 4.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 6.0,
+                    "N": 6
+                },
+                {
+                    "depth": 7.5,
+                    "N": 10
+                },
+                {
+                    "depth": 9.0,
+                    "N": 22
+                },
+                {
+                    "depth": 10.5,
+                    "N": 27
+                },
+                {
+                    "depth": 12.0,
+                    "N": 31
+                },
+                {
+                    "depth": 13.5,
+                    "N": 34
+                },
+                {
+                    "depth": 15.0,
+                    "N": 36
+                },
+                {
+                    "depth": 16.5,
+                    "N": 38
+                },
+                {
+                    "depth": 18.0,
+                    "N": 41
+                },
+                {
+                    "depth": 19.5,
+                    "N": 44
+                },
+                {
+                    "depth": 21.0,
+                    "N": 46
+                },
+                {
+                    "depth": 22.5,
+                    "N": 48
+                },
+                {
+                    "depth": 24.0,
+                    "N": 54
+                },
+                {
+                    "depth": 25.5,
+                    "N": 73
+                },
+                {
+                    "depth": 27.0,
+                    "N": 83
+                },
+                {
+                    "depth": 28.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 30.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 31.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 33.0,
+                    "N": "R"
+                }
+            ],
+            "SK14": [
+                {
+                    "depth": 1.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 3.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 4.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 6.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 7.5,
+                    "N": 12
+                },
+                {
+                    "depth": 9.0,
+                    "N": 25
+                },
+                {
+                    "depth": 10.5,
+                    "N": 28
+                },
+                {
+                    "depth": 12.0,
+                    "N": 32
+                },
+                {
+                    "depth": 13.5,
+                    "N": 35
+                },
+                {
+                    "depth": 15.0,
+                    "N": 39
+                },
+                {
+                    "depth": 16.5,
+                    "N": 41
+                },
+                {
+                    "depth": 18.0,
+                    "N": 44
+                },
+                {
+                    "depth": 19.5,
+                    "N": 60
+                },
+                {
+                    "depth": 21.0,
+                    "N": 68
+                },
+                {
+                    "depth": 22.5,
+                    "N": 75
+                },
+                {
+                    "depth": 24.0,
+                    "N": 83
+                },
+                {
+                    "depth": 25.5,
+                    "N": 87
+                },
+                {
+                    "depth": 27.0,
+                    "N": 60
+                },
+                {
+                    "depth": 28.5,
+                    "N": "R"
+                },
+                {
+                    "depth": 30.0,
+                    "N": "R"
+                },
+                {
+                    "depth": 31.5,
+                    "N": "R"
+                }
+            ]
+        },
+        "maswData": {
+            "JS-1": [
+                {
+                    "thickness": 2.6,
+                    "compressionalWaveVelocity": 680,
+                    "shearWaveVelocity": 242
+                },
+                {
+                    "thickness": 12.7,
+                    "compressionalWaveVelocity": 760,
+                    "shearWaveVelocity": 283
+                },
+                {
+                    "thickness": 5.8,
+                    "compressionalWaveVelocity": 950,
+                    "shearWaveVelocity": 373
+                },
+                {
+                    "thickness": 8.9,
+                    "compressionalWaveVelocity": 1200,
+                    "shearWaveVelocity": 521
+                }
+            ],
+            "JS-2": [
+                {
+                    "thickness": 7.0,
+                    "compressionalWaveVelocity": 780,
+                    "shearWaveVelocity": 276
+                },
+                {
+                    "thickness": 4.8,
+                    "compressionalWaveVelocity": 800,
+                    "shearWaveVelocity": 298
+                },
+                {
+                    "thickness": 7.2,
+                    "compressionalWaveVelocity": 910,
+                    "shearWaveVelocity": 357
+                },
+                {
+                    "thickness": 11.0,
+                    "compressionalWaveVelocity": 1250,
+                    "shearWaveVelocity": 551
+                }
+            ],
+            "JS-3": [
+                {
+                    "thickness": 4.0,
+                    "compressionalWaveVelocity": 600,
+                    "shearWaveVelocity": 182
+                },
+                {
+                    "thickness": 8.0,
+                    "compressionalWaveVelocity": 680,
+                    "shearWaveVelocity": 235
+                },
+                {
+                    "thickness": 9.4,
+                    "compressionalWaveVelocity": 930,
+                    "shearWaveVelocity": 364
+                },
+                {
+                    "thickness": 8.6,
+                    "compressionalWaveVelocity": 1300,
+                    "shearWaveVelocity": 580
+                }
+            ],
+            "JS-4": [
+                {
+                    "thickness": 5.0,
+                    "compressionalWaveVelocity": 630,
+                    "shearWaveVelocity": 181
+                },
+                {
+                    "thickness": 8.5,
+                    "compressionalWaveVelocity": 715,
+                    "shearWaveVelocity": 258
+                },
+                {
+                    "thickness": 11.9,
+                    "compressionalWaveVelocity": 940,
+                    "shearWaveVelocity": 360
+                },
+                {
+                    "thickness": 4.6,
+                    "compressionalWaveVelocity": 1330,
+                    "shearWaveVelocity": 560
+                }
+            ],
+            "JS-5": [
+                {
+                    "thickness": 3.6,
+                    "compressionalWaveVelocity": 750,
+                    "shearWaveVelocity": 221
+                },
+                {
+                    "thickness": 8.8,
+                    "compressionalWaveVelocity": 810,
+                    "shearWaveVelocity": 262
+                },
+                {
+                    "thickness": 7.6,
+                    "compressionalWaveVelocity": 920,
+                    "shearWaveVelocity": 355
+                },
+                {
+                    "thickness": 10.0,
+                    "compressionalWaveVelocity": 1350,
+                    "shearWaveVelocity": 576
+                }
+            ],
+            "JS-6": [
+                {
+                    "thickness": 5.4,
+                    "compressionalWaveVelocity": 650,
+                    "shearWaveVelocity": 186
+                },
+                {
+                    "thickness": 11.7,
+                    "compressionalWaveVelocity": 740,
+                    "shearWaveVelocity": 270
+                },
+                {
+                    "thickness": 7.9,
+                    "compressionalWaveVelocity": 900,
+                    "shearWaveVelocity": 347
+                },
+                {
+                    "thickness": 5.0,
+                    "compressionalWaveVelocity": 1280,
+                    "shearWaveVelocity": 550
+                }
+            ],
+            "JS-7": [
+                {
+                    "thickness": 6.0,
+                    "compressionalWaveVelocity": 670,
+                    "shearWaveVelocity": 193
+                },
+                {
+                    "thickness": 6.0,
+                    "compressionalWaveVelocity": 760,
+                    "shearWaveVelocity": 283
+                },
+                {
+                    "thickness": 6.0,
+                    "compressionalWaveVelocity": 910,
+                    "shearWaveVelocity": 346
+                },
+                {
+                    "thickness": 12.0,
+                    "compressionalWaveVelocity": 1320,
+                    "shearWaveVelocity": 564
+                }
+            ],
+            "JS-8": [
+                {
+                    "thickness": 4.0,
+                    "compressionalWaveVelocity": 650,
+                    "shearWaveVelocity": 197
+                },
+                {
+                    "thickness": 9.5,
+                    "compressionalWaveVelocity": 840,
+                    "shearWaveVelocity": 304
+                },
+                {
+                    "thickness": 6.5,
+                    "compressionalWaveVelocity": 905,
+                    "shearWaveVelocity": 349
+                },
+                {
+                    "thickness": 10.0,
+                    "compressionalWaveVelocity": 1310,
+                    "shearWaveVelocity": 550
+                }
+            ],
+            "JS-9": [
+                {
+                    "thickness": 6.2,
+                    "compressionalWaveVelocity": 620,
+                    "shearWaveVelocity": 191
+                },
+                {
+                    "thickness": 9.1,
+                    "compressionalWaveVelocity": 730,
+                    "shearWaveVelocity": 278
+                },
+                {
+                    "thickness": 8.7,
+                    "compressionalWaveVelocity": 880,
+                    "shearWaveVelocity": 340
+                },
+                {
+                    "thickness": 6.0,
+                    "compressionalWaveVelocity": 1260,
+                    "shearWaveVelocity": 530
+                }
+            ],
+            "JS-10": [
+                {
+                    "thickness": 4.0,
+                    "compressionalWaveVelocity": 640,
+                    "shearWaveVelocity": 201
+                },
+                {
+                    "thickness": 12.0,
+                    "compressionalWaveVelocity": 760,
+                    "shearWaveVelocity": 282
+                },
+                {
+                    "thickness": 6.0,
+                    "compressionalWaveVelocity": 860,
+                    "shearWaveVelocity": 347
+                },
+                {
+                    "thickness": 8.0,
+                    "compressionalWaveVelocity": 1350,
+                    "shearWaveVelocity": 564
+                }
+            ]
+        },
+        "pressuremeterData": {
+            "SK3": [
+                {
+                    "depth": 3,
+                    "limitPressure": 5.54,
+                    "netLimitPressure": 5.12
+                },
+                {
+                    "depth": 6,
+                    "limitPressure": 4.73,
+                    "netLimitPressure": 4.29
+                },
+                {
+                    "depth": 9,
+                    "limitPressure": 6.0,
+                    "netLimitPressure": 5.56
+                },
+                {
+                    "depth": 12,
+                    "limitPressure": 17.59,
+                    "netLimitPressure": 16.01
+                },
+                {
+                    "depth": 15,
+                    "limitPressure": 16.61,
+                    "netLimitPressure": 15.02
+                },
+                {
+                    "depth": 18,
+                    "limitPressure": 16.3,
+                    "netLimitPressure": 14.71
+                },
+                {
+                    "depth": 21,
+                    "limitPressure": 19.67,
+                    "netLimitPressure": 18.55
+                },
+                {
+                    "depth": 24,
+                    "limitPressure": 22.11,
+                    "netLimitPressure": 20.99
+                },
+                {
+                    "depth": 27,
+                    "limitPressure": 22.2,
+                    "netLimitPressure": 21.05
+                },
+                {
+                    "depth": 30,
+                    "limitPressure": 23.17,
+                    "netLimitPressure": 22.01
+                },
+                {
+                    "depth": 33,
+                    "limitPressure": 22.13,
+                    "netLimitPressure": 21.01
+                },
+                {
+                    "depth": 36,
+                    "limitPressure": 25.12,
+                    "netLimitPressure": 23.99
+                },
+                {
+                    "depth": 39,
+                    "limitPressure": 28.85,
+                    "netLimitPressure": 27.75
+                },
+                {
+                    "depth": 42,
+                    "limitPressure": 27.33,
+                    "netLimitPressure": 26.23
+                },
+                {
+                    "depth": 45,
+                    "limitPressure": 31.64,
+                    "netLimitPressure": 31.64
+                },
+                {
+                    "depth": 48,
+                    "limitPressure": 31.6,
+                    "netLimitPressure": 31.6
+                },
+                {
+                    "depth": 50,
+                    "limitPressure": 31.76,
+                    "netLimitPressure": 31.76
+                }
+            ],
+            "SK7": [
+                {
+                    "depth": 3,
+                    "limitPressure": 9.28,
+                    "netLimitPressure": 8.87
+                },
+                {
+                    "depth": 6,
+                    "limitPressure": 7.46,
+                    "netLimitPressure": 7.03
+                },
+                {
+                    "depth": 9,
+                    "limitPressure": 16.63,
+                    "netLimitPressure": 15.0
+                },
+                {
+                    "depth": 12,
+                    "limitPressure": 16.49,
+                    "netLimitPressure": 14.75
+                },
+                {
+                    "depth": 15,
+                    "limitPressure": 16.11,
+                    "netLimitPressure": 14.41
+                },
+                {
+                    "depth": 18,
+                    "limitPressure": 18.94,
+                    "netLimitPressure": 17.8
+                },
+                {
+                    "depth": 21,
+                    "limitPressure": 20.13,
+                    "netLimitPressure": 18.98
+                },
+                {
+                    "depth": 24,
+                    "limitPressure": 24.34,
+                    "netLimitPressure": 22.54
+                },
+                {
+                    "depth": 27,
+                    "limitPressure": 24.34,
+                    "netLimitPressure": 22.04
+                },
+                {
+                    "depth": 30,
+                    "limitPressure": 26.15,
+                    "netLimitPressure": 25.24
+                },
+                {
+                    "depth": 33,
+                    "limitPressure": 31.98,
+                    "netLimitPressure": 31.98
+                },
+                {
+                    "depth": 36,
+                    "limitPressure": 31.68,
+                    "netLimitPressure": 31.68
+                },
+                {
+                    "depth": 39,
+                    "limitPressure": 31.98,
+                    "netLimitPressure": 31.98
+                },
+                {
+                    "depth": 42,
+                    "limitPressure": 32.83,
+                    "netLimitPressure": 32.83
+                },
+                {
+                    "depth": 45,
+                    "limitPressure": 33.82,
+                    "netLimitPressure": 33.82
+                },
+                {
+                    "depth": 48,
+                    "limitPressure": 33.83,
+                    "netLimitPressure": 33.83
+                },
+                {
+                    "depth": 50,
+                    "limitPressure": 33.96,
+                    "netLimitPressure": 33.96
+                }
+            ],
+            "SK10": [
+                {
+                    "depth": 3,
+                    "limitPressure": 7.27,
+                    "netLimitPressure": 6.9
+                },
+                {
+                    "depth": 6,
+                    "limitPressure": 18.93,
+                    "netLimitPressure": 17.32
+                },
+                {
+                    "depth": 9,
+                    "limitPressure": 16.14,
+                    "netLimitPressure": 14.42
+                },
+                {
+                    "depth": 12,
+                    "limitPressure": 16.08,
+                    "netLimitPressure": 14.45
+                },
+                {
+                    "depth": 15,
+                    "limitPressure": 15.21,
+                    "netLimitPressure": 13.49
+                },
+                {
+                    "depth": 18,
+                    "limitPressure": 16.59,
+                    "netLimitPressure": 14.99
+                },
+                {
+                    "depth": 21,
+                    "limitPressure": 18.36,
+                    "netLimitPressure": 17.29
+                },
+                {
+                    "depth": 24,
+                    "limitPressure": 21.98,
+                    "netLimitPressure": 20.86
+                },
+                {
+                    "depth": 27,
+                    "limitPressure": 22.03,
+                    "netLimitPressure": 20.95
+                },
+                {
+                    "depth": 30,
+                    "limitPressure": 21.08,
+                    "netLimitPressure": 20.01
+                },
+                {
+                    "depth": 33,
+                    "limitPressure": 20.92,
+                    "netLimitPressure": 19.82
+                },
+                {
+                    "depth": 36,
+                    "limitPressure": 21.19,
+                    "netLimitPressure": 20.05
+                },
+                {
+                    "depth": 39,
+                    "limitPressure": 21.0,
+                    "netLimitPressure": 19.84
+                },
+                {
+                    "depth": 42,
+                    "limitPressure": 22.99,
+                    "netLimitPressure": 21.87
+                },
+                {
+                    "depth": 45,
+                    "limitPressure": 24.82,
+                    "netLimitPressure": 23.7
+                },
+                {
+                    "depth": 48,
+                    "limitPressure": 25.69,
+                    "netLimitPressure": 24.6
+                },
+                {
+                    "depth": 50,
+                    "limitPressure": 31.26,
+                    "netLimitPressure": 31.26
+                }
+            ],
+            "SK13": [
+                {
+                    "depth": 3,
+                    "limitPressure": 4.6,
+                    "netLimitPressure": 4.12
+                },
+                {
+                    "depth": 6,
+                    "limitPressure": 7.21,
+                    "netLimitPressure": 6.8
+                },
+                {
+                    "depth": 9,
+                    "limitPressure": 9.62,
+                    "netLimitPressure": 9.18
+                },
+                {
+                    "depth": 12,
+                    "limitPressure": 16.78,
+                    "netLimitPressure": 15.17
+                },
+                {
+                    "depth": 15,
+                    "limitPressure": 14.08,
+                    "netLimitPressure": 13.34
+                },
+                {
+                    "depth": 18,
+                    "limitPressure": 16.9,
+                    "netLimitPressure": 15.28
+                },
+                {
+                    "depth": 21,
+                    "limitPressure": 16.26,
+                    "netLimitPressure": 14.55
+                },
+                {
+                    "depth": 24,
+                    "limitPressure": 16.77,
+                    "netLimitPressure": 15.16
+                },
+                {
+                    "depth": 27,
+                    "limitPressure": 17.26,
+                    "netLimitPressure": 16.21
+                },
+                {
+                    "depth": 30,
+                    "limitPressure": 17.36,
+                    "netLimitPressure": 16.37
+                },
+                {
+                    "depth": 33,
+                    "limitPressure": 17.9,
+                    "netLimitPressure": 16.82
+                },
+                {
+                    "depth": 36,
+                    "limitPressure": 21.83,
+                    "netLimitPressure": 20.74
+                },
+                {
+                    "depth": 39,
+                    "limitPressure": 25.9,
+                    "netLimitPressure": 24.09
+                },
+                {
+                    "depth": 42,
+                    "limitPressure": 24.77,
+                    "netLimitPressure": 22.69
+                },
+                {
+                    "depth": 45,
+                    "limitPressure": 21.7,
+                    "netLimitPressure": 19.63
+                },
+                {
+                    "depth": 48,
+                    "limitPressure": 26.6,
+                    "netLimitPressure": 25.5
+                },
+                {
+                    "depth": 50,
+                    "limitPressure": 25.68,
+                    "netLimitPressure": 24.57
+                }
+            ]
+        },
+        "indevstigationCategory": [
+            "Kategori 2"
+        ]
+    }
+}
