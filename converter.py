@@ -94,6 +94,3 @@ def convert_data(file_name):
         json.dump(data, f, indent=4)
 
     return data
-
-
-convert_data("R0.xlsx")
